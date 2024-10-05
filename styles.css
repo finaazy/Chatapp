@@ -6,7 +6,7 @@
 
 body {
     font-family: a little pot;
-    background-color: #9FA0CD;
+    background-color: ##e8effa;
 }
 
 .chat-container {
@@ -16,7 +16,7 @@ body {
 
 .sidebar {
     width: 25%;
-    background-color: #9FA0CD;
+    background-color: ##8992c4;
     color: #FFF0BB;
 
     display: flex;
